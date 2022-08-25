@@ -13,3 +13,6 @@
 - 📫 How to reach me: just create an issue.
 - 😄 Pronouns: she/her
 
+
+### About Me
+![About Me](https://github.com/bsadia/bsadia/blob/master/CV.svg)
