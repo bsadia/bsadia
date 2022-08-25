@@ -15,4 +15,4 @@
 
 
 ### About Me
-![About Me](https://github.com/bsadia/bsadia/blob/master/CV.svg)
+![About Me](https://github.com/bsadia/bsadia/files/9423961/BushraSadia_EN.pdf)
