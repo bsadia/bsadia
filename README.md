@@ -14,4 +14,4 @@
 - 😄 Pronouns: she/her
 
 
-### ![Bushra Resume](https://github.com/bsadia/bsadia/files/9423961/BushraSadia_EN.pdf)
+### ![My CV](https://github.com/bsadia/bsadia/files/9423961/BushraSadia_EN.pdf)
